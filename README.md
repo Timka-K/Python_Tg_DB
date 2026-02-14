@@ -30,4 +30,5 @@
 
 1. 📥 **Скачай**
    ```bash
-   git clone <ссылка>
+   git clone https://github.com/Timka-K/Python_Tg_DB
+
