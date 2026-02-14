@@ -135,7 +135,7 @@ if __name__ == '__main__':
     #manager.create_tables()
     #manager.default_insert()
     #manager.insert_project([(1, "CityGame", "Данная программа написана для создания Discord бота , котрый имеет возможность играть в города с пользователями ", "https://github.com/Timka-K/Kodland/tree/main/CityGame",3)])
-    manager.insert_project([(2, "Twilight", "ML- для классификации по изображениям по персонажам из Сумерек.", "https://github.com/Timka-K/Kodland/tree/main/Twilight",3)])
-    manager.insert_project([(3, "weather_Bot", "Бот с прогнозом погоды.", "https://github.com/Timka-K/Kodland/tree/main/weather_Bot",3)])
-    manager.insert_project([(4, "сайт_горы", "Сайт про горы с использованием Flask и Jinga","https://github.com/Timka-K/Kodland/tree/main/%D1%81%D0%B0%D0%B9%D1%82_%D0%B3%D0%BE%D1%80%D1%8B",3)])
+    #manager.insert_project([(2, "Twilight", "ML- для классификации по изображениям по персонажам из Сумерек.", "https://github.com/Timka-K/Kodland/tree/main/Twilight",3)])
+    #manager.insert_project([(3, "weather_Bot", "Бот с прогнозом погоды.", "https://github.com/Timka-K/Kodland/tree/main/weather_Bot",3)])
+    #manager.insert_project([(4, "сайт_горы", "Сайт про горы с использованием Flask и Jinga","https://github.com/Timka-K/Kodland/tree/main/%D1%81%D0%B0%D0%B9%D1%82_%D0%B3%D0%BE%D1%80%D1%8B",3)])
     
